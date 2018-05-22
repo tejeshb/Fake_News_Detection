@@ -1,0 +1,9 @@
+id,1,2,3,4,5,6,7,8,9,10
+image,yes,yes,yes,yes,no,no,no,no,no,no
+text_label,fake,real,real,fake,fake,fake,fake,real,real,real
+politifact,real,real,fake,fake,fake,fake,fake,real,real,real
+FND,real,fake,fake,real,fake,fake,fake,fake,real,fake
+buzzfeed,real,fake,real,real,fake,fake,real,real,fake,real
+FND-fake,fake,real,real,real,real,real,real,fake,fake,real
+image,fake,real,real,fake,,,,,,
+all,real,real,real,real,fake,fake,fake,real,real,real
